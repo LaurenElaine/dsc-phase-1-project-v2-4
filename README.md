@@ -120,8 +120,8 @@ I welcome the ability to connect with you regarding any questions or further con
 ## Repository Structure
 This repository's strucutre is outlined below for ease of access. The images and data files are available for reference. The readme file and presentation file provide a summary of the indepth analysis outlined in the jupyter notebook file. 
 
-+-- ZippedData
-+-- Images
-+-- README.md
-+-- Microsoft Movie Studio Recommendations.pdf
-+-- Microsoft Movie Studio Recommendations.ipynb
+ |-- ZippedData
+ |-- Images
+ |-- README.md
+ |-- Microsoft Movie Studio Recommendations.pdf
+ |-- Microsoft Movie Studio Recommendations.ipynb
