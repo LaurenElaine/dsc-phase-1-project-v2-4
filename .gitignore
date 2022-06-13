@@ -3,6 +3,7 @@
 
 # ipython
 .DS_Store
+.canvas
 
 # byte-compiled / optimized / DLL files
 __pycache__
