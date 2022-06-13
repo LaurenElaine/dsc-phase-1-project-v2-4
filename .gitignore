@@ -1,6 +1,21 @@
+# jupyter notebook
 .ipynb_checkpoints
+
+# ipython
 .DS_Store
+
+# byte-compiled / optimized / DLL files
 __pycache__
+
+# unit test / coverage reports
 *.pytest_cache
+
+# git fiels
 .gitattributes
+
+# large data files
 !*.zip
+
+# flatiron files
+LICENSE.md
+CONTRIBUTING.md

@@ -1,4 +1,4 @@
-![Microsoft%20Studio%20Logo-2.png](attachment:Microsoft%20Studio%20Logo-2.png)
+<img src='Images/Microsoft Studio Logo.png'>
 
 # Microsoft Movie Studio Recommendations
 
@@ -37,12 +37,17 @@ The analysis will further explore the information available from the datasets th
 
 ### Data Exploration and Interpretation
 
-![ROI](/Users/laurenbrown/Documents/Flatiron/Phase_1/Project/dsc-phase-1-project-v2-4/Images/ROI.png)
+<img src='Images/ROI.png'>
 
-![July](/Users/laurenbrown/Documents/Flatiron/Phase_1/Project/dsc-phase-1-project-v2-4/Images/Month.png)
+This image explains to us that the most profitable movie genres, in terms of average return on investment, are Musical, Music, and Animation films. 
 
-![Day](/Users/laurenbrown/Documents/Flatiron/Phase_1/Project/dsc-phase-1-project-v2-4/Images/Day.png)
+<img src='Images/Month.png'>
 
+This image explains to us that the most profitable month that a film can be released, in terms of average return on investment, is in July. 
+
+<img src='Images/Day.png'>
+
+As we learned from further analysis, of all days in July, the 10th day of the month has proved to be the most profitable day to release a film.
 
 ## Conculsion
 
@@ -104,7 +109,7 @@ The analysis will further explore the information available from the datasets th
 
 ## For More Informaiton
 Below you wilol find links to imporatant materials to support this analysis
- - [Jupyter Notebook](https://github.com/LaurenElaine/dsc-phase-1-project-v2-4/blob/master/Microsoft%20Movie%20Studio%20Reommendations.ipynb)
+ - [Jupyter Notebook](https://github.com/LaurenElaine/dsc-phase-1-project-v2-4/blob/master/Microsoft%20Movie%20Studio%20Recommendations.ipynb)
  - Link to PDF
  - Link to presentation
 
