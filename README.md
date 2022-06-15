@@ -2,7 +2,7 @@
 
 # Microsoft Movie Studio Recommendations
 
-Author: [Lauren Brown](mailto:lauren.elaine86@gmail.com?subject=Microsoft%20Studios%20Project)
+Author: [Lauren](mailto:lauren.elaine86@gmail.com?subject=Microsoft%20Studios%20Project)
 
 ## Overview
 This project uses data analysis to understand the performance of movie productions through various performance metrics in an effort to inform Microsoft executives about the most financially viable opportunities to enter the movie industry.
