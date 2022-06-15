@@ -2,7 +2,7 @@
 
 # Microsoft Movie Studio Recommendations
 
-Author: [Lauren](mailto:lauren.elaine86@gmail.com?subject=Microsoft%20Studios%20Project)
+Author: [Lauren Brown](mailto:lauren.elaine86@gmail.com?subject=Microsoft%20Studios%20Project)
 
 ## Overview
 This project uses data analysis to understand the performance of movie productions through various performance metrics in an effort to inform Microsoft executives about the most financially viable opportunities to enter the movie industry.
@@ -37,9 +37,13 @@ The analysis will further explore the information available from the datasets th
 
 ### Data Exploration and Interpretation
 
+#### Profitability by Genre
+This analysis worked to explore the profitability of genres within the movie industry. As Microsoft looks to enter the movie industry, pursuing films that have proven their profitability over time offers the potential to pursue profitability more readily. In the above image we can see that the most profitable movie genres, in terms of average return on investment, are Musical, Music, and Animation films. As another layer of pursuing proven paths toward successful movie industry entry we will explore writers and directors who have proven profitability.
+
 <img src='Images/ROI.png'>
 
-This analysis worked to explore the profitability of genres within the movie industry. As Microsoft looks to enter the movie industry, pursuing films that have proven their profitability over time offers the potential to pursue profitability more readily. In the above image we can see that the most profitable movie genres, in terms of average return on investment, are Musical, Music, and Animation films. As another layer of pursuing proven paths toward successful movie industry entry we will explore writers and directors who have proven profitability.
+#### Profitability by Directors and Writers
+In an effort to mitigate risk, and possibly increase the likelihood of future profitability through return on investment, this analysis looked into which writers and directors in the most profitable genres had a portfolio that was also quite profitable. As you can see in the graphical representations above within the Musical, Music, and Animation genres, the top writers and directors have return on investments of incredible measure. Aligning with these partners who have a proven track record for success could lend itself to great market entry.
 
 <img src='Images/Musical_Directors.png'>
 <img src='Images/Music_Directors.png'>
@@ -48,18 +52,16 @@ This analysis worked to explore the profitability of genres within the movie ind
 <img src='Images/Music_Writers.png'>
 <img src='Images/Animation_Writers.png'>
 
-In an effort to mitigate risk, and possibly increase the likelihood of future profitability through return on investment, this analysis looked into which writers and directors in the most profitable genres had a portfolio that was also quite profitable. As you can see in the graphical representations above within the Musical, Music, and Animation genres, the top writers and directors have return on investments of incredible measure. Aligning with these partners who have a proven track record for success could lend itself to great market entry.
+#### Profitability by Release Date
+Another aspect of the successful launch of Microsoft's entry into the movie industry is to understand, with confidence, when to release a film. As can be expected, there are seasonal impacts to a film's success. This analysis worked to understand what time of year is more ideal than others to release a film. As represented above, we now understand that the most profitable month that a film can be released, in terms of average return on investment, is in July. 
 
 <img src='Images/Month.png'>
 
-Another aspect of the successful launch of Microsoft's entry into the movie industry is to understand, with confidence, when to release a film. As can be expected, there are seasonal impacts to a film's success. This analysis worked to understand what time of year is more ideal than others to release a film. As represented above, we now understand that the most profitable month that a film can be released, in terms of average return on investment, is in July. 
+As we learned from further analysis, of all days in July, the 10th day of the month has proved to be the most profitable day to release a film.
 
 <img src='Images/Day.png'>
 
-As we learned from further analysis, of all days in July, the 10th day of the month has proved to be the most profitable day to release a film.
-
 ## Conclusion
-
  1. From the information available, it appears that musical films provide the highest return for the committed budget. Music and animation films also provide higher profit. As Microsoft continues to evaluate their approach towards movie production, aligning with these genres could prove financially beneficial.
  2. As explored above, the musical, music, and animation genres as it relates to directors and writers profitability is high compared to other genres. 
      - As Microsoft explores their approach towards entering the movie industry they should consider working with the following directors.
