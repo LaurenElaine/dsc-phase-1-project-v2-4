@@ -9,6 +9,7 @@ This project uses data analysis to understand the performance of movie productio
 
 ## Business Understanding
 In 2019, prior to the pandemic, movie box office sales were at $11B, and in that same year there were over 1 billion tickets sold to the various films released at the time. The industry is recovering as we grow in our understanding of how to navigate the current environment with the coronavirus still prevalent. This year, box office sales are projected to be in excess of $6B with almost 750M tickets sold. (The numbers - https://www.the-numbers.com/market/)
+
 The leadership of Microsoft is eager to learn about the potential to enter the movie industry with financial success in the near term. This analysis works to provide insight into important metrics of financial and public interest performance within the movie industry to better inform the Microsoft executive team as they determine their clear path forward to be a new entrant into the well established movie industry.
 
 ## Data Understanding & Analysis
@@ -38,22 +39,31 @@ The analysis will further explore the information available from the datasets th
 ### Data Exploration and Interpretation
 
 #### Profitability by Genre
-This analysis worked to explore the profitability of genres within the movie industry. As Microsoft looks to enter the movie industry, pursuing films that have proven their profitability over time offers the potential to pursue profitability more readily. In the above image we can see that the most profitable movie genres, in terms of average return on investment, are Musical, Music, and Animation films. As another layer of pursuing proven paths toward successful movie industry entry we will explore writers and directors who have proven profitability.
+This analysis worked to explore the profitability of genres within the movie industry. As Microsoft looks to enter the movie industry, pursuing films that have proven their profitability over time offers the potential for Mircosoft to pursue profitability more readily. In the visualization below we can see that the most profitable movie genres, in terms of average return on investment, are Musical, Music, and Animation films. 
+
+Top Genre ROI:
+ - Musical 471%
+ - Music 307%
+ - Animation 274%
+
+As another layer of pursuing proven paths toward successful movie industry entry we will explore writers and directors who have proven profitability.
 
 <img src='Images/ROI.png'>
 
 #### Profitability by Directors and Writers
-In an effort to mitigate risk, and possibly increase the likelihood of future profitability through return on investment, this analysis looked into which writers and directors in the most profitable genres had a portfolio that was also quite profitable. As you can see in the graphical representations above within the Musical, Music, and Animation genres, the top writers and directors have return on investments of incredible measure. Aligning with these partners who have a proven track record for success could lend itself to great market entry.
+In an effort to mitigate risk, and possibly increase the likelihood of future profitability through return on investment, this analysis looked into which writers and directors in the most profitable genres had a portfolio that was also quite profitable. As you can see in the graphical representations below, within the Musical, Music, and Animation genres, the top writers and directors have return on investments of incredible measure. Aligning with these partners who have a proven track record for success could lend itself to great market entry.
 
 <img src='Images/All_Directors_Global.png'>
 <img src='Images/All_Writers_Global.png'>
 
+As illistrated above, and particular to directos, Zane Burden, Bill Condon, and Marilyn Barnes have over a 900% ROI for Musical films, Stephen Daldry and Brett Sullivan have over a 2000% ROI for music films, and Kathik Candan has over a 12000% ROI for Animation films. Additionally, particular to writers, Stephen Chbosky, Evan Spiliotopoulos, and Linda Wollverton have over a 900% ROI for Musical films, Anthony McCarten and Peter Morgan have over a 1500% ROI for music films, and Akira Toriyama has over a 13000% ROI for Animation films. Partnership with these directors could be quite beneficial to explore.
+
 #### Profitability by Release Date
-Another aspect of the successful launch of Microsoft's entry into the movie industry is to understand, with confidence, when to release a film. As can be expected, there are seasonal impacts to a film's success. This analysis worked to understand what time of year is more ideal than others to release a film. As represented above, we now understand that the most profitable month that a film can be released, in terms of average return on investment, is in July. 
+Another aspect of the successful launch of Microsoft's entry into the movie industry is to understand, with confidence, when to release a film. As can be expected, there are seasonal impacts to a film's success. This analysis worked to understand what time of year is more ideal than others to release a film. As represented above, we now understand that the most profitable month that a film can be released, in terms of average return on investment, is in October. The visualization below helps us understand with greater awareness that October proves to have the highest potential for return on investment. In total, October boasts an ROI of 511%. 
 
 <img src='Images/Month.png'>
 
-As we learned from further analysis, of all days in July, the 10th day of the month has proved to be the most profitable day to release a film.
+As we learned from further analysis, of all days in October, the 1st day of the month has proved to be the most profitable day to release a film. In total, October 1st boasts an ROI of 3801%. 
 
 <img src='Images/Day.png'>
 
@@ -86,7 +96,7 @@ As we learned from further analysis, of all days in July, the 10th day of the mo
              - Akira Toriyama
              - Brenda Chapman
              - Jeff Nathanson
- 3. Given the above analysis we can pinpoint an exact date of the year that lends itself to being profitable. July 10 would be a great day to target a release of a movie. More broadly focusing on having movies released in July would be beneficial. The months leading up to the holidays could also be considered as a more profitable time to release movies.
+ 3. Given the above analysis we can pinpoint an exact date of the year that lends itself to being profitable. October 1 would be a great day to target a release of a movie. More broadly focusing on having movies released in October would be beneficial. The months leading up to the holidays could also be considered as a more profitable time to release movies.
 
 ## For More Information
 Below you will find links to important materials to support this analysis
@@ -99,7 +109,7 @@ I welcome the ability to connect with you regarding any questions or further con
  - [LinkedIn](https://www.linkedin.com/in/lauren-brown-97944722a/)
 
 ## Repository Structure
-This repository's structure is outlined below for ease of access. The images and data files are available for reference. The PDFs folder holds renderings of the jupyter notebook, readme and presentation in a more accessible and readable format. The readme file along with the materials in the PDFs folder provide a summary of the in depth analysis outlined in the jupyter notebook file. 
+This repository's structure is outlined below for ease of access. The images and data files are available for reference. The .gitignore files maintains a list of files that are to be ignored for this repository due to irrelavance or the files large size. The PDFs folder holds renderings of the GitHub repository, jupyter notebook, readme file, and presentation in a more accessible and readable format. The readme file along with the materials in the PDFs folder provide a summary of the in depth analysis outlined in the jupyter notebook file. 
 
 ```bash
 ├── Images
