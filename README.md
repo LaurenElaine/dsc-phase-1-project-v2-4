@@ -101,8 +101,7 @@ As we learned from further analysis, of all days in October, the 1st day of the 
 ## For More Information
 Below you will find links to important materials to support this analysis
  - [Jupyter Notebook](https://github.com/LaurenElaine/dsc-phase-1-project-v2-4/blob/master/Microsoft%20Movie%20Studio%20Recommendations.ipynb)
- - Link to PDF
- - Link to presentation
+ - [Presentation](https://github.com/LaurenElaine/dsc-phase-1-project-v2-4/blob/master/PDFs/Presentation.pdf)
 
 I welcome the ability to connect with you regarding any questions or further conversation regarding this analysis. You can contact me at the information provided below.
  - [Email](mailto:lauren.elaine86@gmail.com?subject=Microsoft%20Studios%20Project)
