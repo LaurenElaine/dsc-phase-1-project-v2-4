@@ -45,12 +45,8 @@ This analysis worked to explore the profitability of genres within the movie ind
 #### Profitability by Directors and Writers
 In an effort to mitigate risk, and possibly increase the likelihood of future profitability through return on investment, this analysis looked into which writers and directors in the most profitable genres had a portfolio that was also quite profitable. As you can see in the graphical representations above within the Musical, Music, and Animation genres, the top writers and directors have return on investments of incredible measure. Aligning with these partners who have a proven track record for success could lend itself to great market entry.
 
-<img src='Images/Musical_Directors.png'>
-<img src='Images/Music_Directors.png'>
-<img src='Images/Animation_Directors.png'>
-<img src='Images/Musical_Writers.png'>
-<img src='Images/Music_Writers.png'>
-<img src='Images/Animation_Writers.png'>
+<img src='Images/All_Directors_Global.png'>
+<img src='Images/All_Writers_Global.png'>
 
 #### Profitability by Release Date
 Another aspect of the successful launch of Microsoft's entry into the movie industry is to understand, with confidence, when to release a film. As can be expected, there are seasonal impacts to a film's success. This analysis worked to understand what time of year is more ideal than others to release a film. As represented above, we now understand that the most profitable month that a film can be released, in terms of average return on investment, is in July. 
@@ -103,12 +99,14 @@ I welcome the ability to connect with you regarding any questions or further con
  - [LinkedIn](https://www.linkedin.com/in/lauren-brown-97944722a/)
 
 ## Repository Structure
-This repository's structure is outlined below for ease of access. The images and data files are available for reference. The readme file and presentation file provide a summary of the in depth analysis outlined in the jupyter notebook file. 
+This repository's structure is outlined below for ease of access. The images and data files are available for reference. The PDFs folder holds renderings of the jupyter notebook, readme and presentation in a more accessible and readable format. The readme file along with the materials in the PDFs folder provide a summary of the in depth analysis outlined in the jupyter notebook file. 
 
 ```bash
-├── ZippedData
 ├── Images
-├── README.md
+├── PDFs
+├── zippedData
+├── .gitignore
+├── Microsoft Movie Studio Recommendations.ipynb
 ├── Microsoft Movie Studio Recommendations.pdf
-└── Microsoft Movie Studio Recommendations.ipynb
+└── README.md
 ```
